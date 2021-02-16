@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2021 NobiDev
+ */
+
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:nobidev/nobidev.dart';

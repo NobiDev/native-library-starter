@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2021 NobiDev
+ */
+
 library nobidev;
 
 /// A Calculator.
