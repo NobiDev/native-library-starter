@@ -3,7 +3,7 @@
  */
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:nobidev/nobidev.dart';
+import 'package:library_starter/nobidev.dart';
 
 void main() {
   test('adds one to input values', () {
